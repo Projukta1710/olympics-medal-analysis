@@ -5,6 +5,11 @@ Analysis of Olympic medal dominance by country using Python
 Project Overview:
 This project analyzes Olympic Games data to identify which countries dominate in terms of medal counts and performance.
 
+Key Insights
+USA, China, and Russia dominate total medal counts
+Gold medal rankings differ from overall rankings
+Some countries show higher efficiency despite fewer medals
+
 
 Objectives:
 Identify top-performing countries
